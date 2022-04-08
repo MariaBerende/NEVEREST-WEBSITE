@@ -20,13 +20,10 @@ header {
 .navbar {
 	background-color: #fff0e0;
 }
-row
-.center {
-  line-height: 200px;
-  height: 200px;
-  border: 3px solid green;
-  text-align: center;
-}
+
+/* the shoping cart */
+
+
 /* Effect on social media buttons */
 
 footer a:hover {
